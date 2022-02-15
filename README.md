@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá! Sou a nalulamas ✨</h1>
+<h1>✨ Olá! Sou a nalulamas ✨</h1>
 
 <div lign="center>
   <a href="https://github.com/nalulamas">
