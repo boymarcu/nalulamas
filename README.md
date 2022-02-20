@@ -1,5 +1,12 @@
 <h1>✨ Olá! Sou a nalulamas ✨</h1>
 
+
+- 🌱 Atualmente aprendendo JAVA
+- ✏️ Aprendendo Python
+- 😄 Pronomes: ela/dela
+
+##
+
 <div lign="center>
   <a href="https://github.com/nalulamas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalulamas&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -25,8 +32,5 @@
   <a href="https://www.linkedin.com/in/analuizalamas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 </div>
-  ##
 
-- 🌱 Atualmente aprendendo JAVA
-- ✏️ Aprendendo Python
-- 😄 Pronomes: ela/dela
+  ##
