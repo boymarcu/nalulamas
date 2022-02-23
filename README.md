@@ -1,8 +1,8 @@
 <h1>✨ Olá! Sou a nalulamas ✨</h1>
 
 
-- 🌱 Atualmente aprendendo JAVA
-- ✏️ Aprendendo Python
+- 🌱 Atualmente estudando no Bootcamp da Generation Brasil 
+- ✏️ Aprendendo JAVA
 - 😄 Pronomes: ela/dela
 
 ##
