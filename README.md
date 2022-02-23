@@ -1,11 +1,13 @@
-<h1>✨ Olá! Sou a nalulamas ✨</h1>
+<h2 align="center">✨ Olá! Sou a nalulamas ✨</h2>
+
+
 
 
 - 🌱 Atualmente estudando no Bootcamp da Generation Brasil 
 - ✏️ Aprendendo JAVA
 - 😄 Pronomes: ela/dela
 
-##
+---
 
 <div lign="center>
   <a href="https://github.com/nalulamas">
