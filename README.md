@@ -1,6 +1,6 @@
 <img align='right' src="https://64.media.tumblr.com/d1e9773ab7e1b25eeb717dc60e357563/09d052ce30d3a3a2-ae/s400x600/d68e5c7d0566e348e2c87f084363172cf0876014.gifv" width="300" height="250">
 
-<h1 align="center">✨ Hi! I'm Nalu ✨</h1>
+<h1 align="center">✨⭐ Hi! I'm Nalu ⭐✨</h1>
 
 <div align="center"><br>
   
