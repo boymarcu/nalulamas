@@ -1,12 +1,17 @@
+<img align='right' src="https://64.media.tumblr.com/d1e9773ab7e1b25eeb717dc60e357563/09d052ce30d3a3a2-ae/s400x600/d68e5c7d0566e348e2c87f084363172cf0876014.gifv" width="300" height="250">
+
 <h2 align="center">✨ Olá! Sou a nalulamas ✨</h2>
 
 <div align="center"><br>
   
-![gif2](https://user-images.githubusercontent.com/67602155/155365958-3c73596f-a8f0-42ae-91b5-0a2fec824116.gif)
 
-- 🌱 Atualmente estudando no Bootcamp da Generation Brasil 
-- ✏️ Aprendendo JAVA
-- 😄 Pronomes: ela/dela
+
+- 🌱 I’m currently studying on Generation Brasil Bootcamp
+- ✏️ Learning JAVA
+- 😄 Pronouns she/her
+- 🎮 Always playing The Legend of Zelda
+- 🧘🏻‍♀️ Yoga lover
+
   
 ---
 
