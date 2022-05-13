@@ -6,7 +6,7 @@
   
 
 
-- 🌱 I’m currently studying on Generation Brasil Bootcamp
+- 🌱 I’m currently studying
 - ✏️ Learning JAVA
 - 😄 Pronouns she/her
 - 🎮 Always playing The Legend of Zelda
