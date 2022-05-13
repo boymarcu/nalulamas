@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently studying
-- ✏️ Learning JAVA
+- ✏️ Learning JAVA/ JavaScript
 - 😄 Pronouns she/her
 - 🎮 Always playing The Legend of Zelda
 - 🧘🏻‍♀️ Yoga lover
