@@ -6,10 +6,10 @@
   
 
 
-- 🌱 I’m currently studying
-- ✏️ Learning JAVA/ JavaScript
+- 🌱 I’m currently working
+- ✏️ Learning JavaScript
 - 😄 Pronouns she/her
-- 🎮 Always playing The Legend of Zelda
+- 🎮 Always playing League of Legends
 - 🧘🏻‍♀️ Yoga lover
 
   
